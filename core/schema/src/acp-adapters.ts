@@ -24,6 +24,7 @@ export const ACPAdapterNames = [
   "github-copilot-cli",
   "glm-acp-agent",
   "goose",
+  "grok-build",
   "junie",
   "kilo",
   "kimi",
