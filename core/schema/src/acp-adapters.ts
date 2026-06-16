@@ -16,6 +16,7 @@ export const ACPAdapterNames = [
   "crow-cli",
   "cursor",
   "deepagents",
+  "devin",
   "dimcode",
   "dirac",
   "factory-droid",
