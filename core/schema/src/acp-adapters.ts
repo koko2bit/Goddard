@@ -26,6 +26,7 @@ export const ACPAdapterNames = [
   "glm-acp-agent",
   "goose",
   "grok-build",
+  "harn",
   "junie",
   "kilo",
   "kimi",
