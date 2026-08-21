@@ -5,6 +5,7 @@
 export const ACPAdapterNames = [
   "agoragentic-acp",
   "amp-acp",
+  "antigravity-acp",
   "auggie",
   "autohand",
   "claude-acp",
