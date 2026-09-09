@@ -30,6 +30,7 @@ export const ACPAdapterNames = [
   "harn",
   "junie",
   "kilo",
+  "kimchi",
   "kimi",
   "minion-code",
   "mistral-vibe",
