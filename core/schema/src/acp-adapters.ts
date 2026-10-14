@@ -8,6 +8,7 @@ export const ACPAdapterNames = [
   "antigravity-acp",
   "auggie",
   "autohand",
+  "bob",
   "claude-acp",
   "cline",
   "codebuddy-code",
