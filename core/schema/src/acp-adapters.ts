@@ -38,6 +38,7 @@ export const ACPAdapterNames = [
   "mistral-vibe",
   "nova",
   "opencode",
+  "opencode-v2",
   "pi-acp",
   "poolside",
   "qoder",
