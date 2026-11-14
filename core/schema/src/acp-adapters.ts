@@ -38,6 +38,7 @@ export const ACPAdapterNames = [
   "minimax-code",
   "minion-code",
   "mistral-vibe",
+  "muse-code",
   "nova",
   "opencode",
   "opencode-v2",
